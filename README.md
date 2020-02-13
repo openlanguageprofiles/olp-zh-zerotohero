@@ -5,7 +5,7 @@ This repository contains Mandarin Chinese dataset kindly provided by [Chinese Ze
 Currently this dataset contains two files:
 
 * [Chinese Zero to Hero vocabulary list (CC-CEDICT w/ HSK levels)](https://github.com/openlanguageprofiles/olp-zh-zerotohero/blob/master/zerotohero-zh-vocabulary.csv)
-* [Chinese Zero to Hero grammar list](https://github.com/openlanguageprofiles/olp-zh-zerotohero/blob/master/zerotohero-zh-vocabulary.csv)
+* [Chinese Zero to Hero grammar list](https://github.com/openlanguageprofiles/olp-zh-zerotohero/blob/master/zerotohero-zh-grammar.csv)
 
 ## Terms of use
 
