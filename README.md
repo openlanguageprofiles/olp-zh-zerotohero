@@ -1,4 +1,4 @@
-Open Language Profiles — Mandarin Chinese dataset from Zero to Hero
+# Open Language Profiles — Mandarin Chinese dataset from Zero to Hero
 
 This repository contains Mandarin Chinese dataset kindly provided by [Chinese Zero to Hero](https://www.zerotohero.ca/).
 
